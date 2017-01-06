@@ -16,7 +16,7 @@ or add them in your favourate editior (joe, vim, nano) etc
 ```
 sh check-ips.sh
 ```
- * To monitor constantly **(defaults to 1 second)**
+ * To monitor constantly **(defaults to 3 seconds)**
 ```
 sh watch-ips.sh
 ```
